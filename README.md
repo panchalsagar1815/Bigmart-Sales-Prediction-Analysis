@@ -1,4 +1,4 @@
-# Bigmart-Sales-Prediction-Analy
+# Bigmart-Sales-Prediction-A
 
 ## Project Description: BigMart Sales Prediction Analysis
 
