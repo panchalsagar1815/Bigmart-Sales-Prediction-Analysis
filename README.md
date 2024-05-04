@@ -1,4 +1,4 @@
-# Bigmart
+# Bi
 
 ## Project Description: BigMart Sales Prediction Analysis
 
